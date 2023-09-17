@@ -4,31 +4,31 @@ class Program
      static void Main(string[] args)
     {
         kullanicilar insan = new kullanicilar();
-        insan.MusteriAdi = "Samil";
-        insan.MusteriSoyadi = "YILDIZ";
-        insan.TCNO = "11800000000";
-        insan.MusteriYasi = 23;
-        insan.Adres = "Konya/Selcuklu Yazır Mah.";
-        insan.EpostaAdresi = "yildizmsamil@gmail.com";
-        insan.TelefonNumarasi = "5523210000";
+        insan.MusteriAdi = "ZURT";
+        insan.MusteriSoyadi = "ZURT";
+        insan.TCNO = "ZURT";
+        insan.MusteriYasi = 12;
+        insan.Adres = "ZURT";
+        insan.EpostaAdresi = "ZURT";
+        insan.TelefonNumarasi = "ZURT";
 
         kullanicilar insan1 = new kullanicilar();
-        insan1.MusteriAdi = "Sumeyye";
-        insan1.MusteriSoyadi = "YILDIZ";
-        insan1.TCNO = "10000000000";
-        insan1.MusteriYasi = 21;
-        insan1.Adres = "Konya/Selcuklu Yazır Mah.";
-        insan1.EpostaAdresi = "smyerdems2002@gmail.com";
-        insan1.TelefonNumarasi = "5418297690";
+        insan1.MusteriAdi = "ZURT";
+        insan1.MusteriSoyadi = "ZURT";
+        insan1.TCNO = "ZURT";
+        insan1.MusteriYasi = 15;
+        insan1.Adres = "ZURT";
+        insan1.EpostaAdresi = "ZURT@gmail.com";
+        insan1.TelefonNumarasi = "ZURT";
 
         kullanicilar insan2 = new kullanicilar();
-        insan2.MusteriAdi = "Abdurrahman";
-        insan2.MusteriSoyadi = "YILDIZ";
-        insan2.TCNO = "30000000000";
-        insan2.MusteriYasi = 21;
-        insan2.Adres = "Kocaeli/izmit Yazır Mah.";
-        insan2.EpostaAdresi = "abduryil@gmail.com";
-        insan2.TelefonNumarasi = "5511319455";
+        insan2.MusteriAdi = "ZURT";
+        insan2.MusteriSoyadi = "ZURT";
+        insan2.TCNO = "ZURT";
+        insan2.MusteriYasi = 6;
+        insan2.Adres = "ZURT";
+        insan2.EpostaAdresi = "ZURT";
+        insan2.TelefonNumarasi = "ZURT";
 
         kullanicilar[] veriler = new kullanicilar[] {insan, insan1, insan2 };
 
